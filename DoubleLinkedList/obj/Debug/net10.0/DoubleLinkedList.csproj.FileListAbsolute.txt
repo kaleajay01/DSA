@@ -1,0 +1,14 @@
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\bin\Debug\net10.0\DoubleLinkedList.exe
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\bin\Debug\net10.0\DoubleLinkedList.deps.json
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\bin\Debug\net10.0\DoubleLinkedList.runtimeconfig.json
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\bin\Debug\net10.0\DoubleLinkedList.dll
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\bin\Debug\net10.0\DoubleLinkedList.pdb
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.AssemblyInfoInputs.cache
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.AssemblyInfo.cs
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.dll
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\refint\DoubleLinkedList.dll
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.pdb
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\DoubleLinkedList.genruntimeconfig.cache
+D:\ClassTFL\VS Code\New folder\C#\DSA\doubleLinkedlist\obj\Debug\net10.0\ref\DoubleLinkedList.dll
