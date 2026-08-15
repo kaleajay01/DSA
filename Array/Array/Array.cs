@@ -2,5 +2,5 @@ namespace Array.arr;
 
 public class Array
 {
-    public int[] arr = new int[]{10,12,13,14,19};
+    public int[] arr = new int[]{19,12,54,4,9};
 }

@@ -1,6 +1,5 @@
 namespace Array.maxarray;
 using Array.arr;
-
 public class Maxarrayvalue
 {
     public int max()

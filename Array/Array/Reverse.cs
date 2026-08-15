@@ -7,7 +7,6 @@ public class Reversearray
     int count=0;
     public int reverse()
     {
-        
         Array obj = new Array();
 
         for (int i = obj.arr.Length - 1; i >= 0; i--)
@@ -29,7 +28,6 @@ public class Reversearray
         {
             return 0;  
         }
-        
         return reverse();
     }
 }
