@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleApp\\SimpleApp.csproj": {}
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleApp\\SimpleApp.csproj": {}
   },
   "projects": {
-    "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleApp\\SimpleApp.csproj": {
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleApp\\SimpleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleApp\\SimpleApp.csproj",
+        "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleApp\\SimpleApp.csproj",
         "projectName": "SimpleApp",
-        "projectPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleApp\\SimpleApp.csproj",
+        "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleApp\\SimpleApp.csproj",
         "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-        "outputPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleApp\\obj\\",
+        "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

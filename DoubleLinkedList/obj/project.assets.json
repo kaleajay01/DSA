@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\DoubleLinkedList\\DoubleLinkedList.csproj",
+      "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\DoubleLinkedList\\DoubleLinkedList.csproj",
       "projectName": "DoubleLinkedList",
-      "projectPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\DoubleLinkedList\\DoubleLinkedList.csproj",
+      "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\DoubleLinkedList\\DoubleLinkedList.csproj",
       "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-      "outputPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\DoubleLinkedList\\obj\\",
+      "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\DoubleLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

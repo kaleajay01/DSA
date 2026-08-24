@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleArray\\SimpleArray.csproj": {}
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleArray\\SimpleArray.csproj": {}
   },
   "projects": {
-    "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleArray\\SimpleArray.csproj": {
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleArray\\SimpleArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleArray\\SimpleArray.csproj",
+        "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleArray\\SimpleArray.csproj",
         "projectName": "SimpleArray",
-        "projectPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleArray\\SimpleArray.csproj",
+        "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleArray\\SimpleArray.csproj",
         "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-        "outputPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleArray\\obj\\",
+        "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

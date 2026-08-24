@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleLinkedList\\SimpleLinkedList.csproj",
+      "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleLinkedList\\SimpleLinkedList.csproj",
       "projectName": "SimpleLinkedList",
-      "projectPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleLinkedList\\SimpleLinkedList.csproj",
+      "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleLinkedList\\SimpleLinkedList.csproj",
       "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-      "outputPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\SimpleLinkedList\\obj\\",
+      "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\SimpleLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

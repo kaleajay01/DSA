@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\Array\\Array.csproj",
+      "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\Array\\Array.csproj",
       "projectName": "Array",
-      "projectPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\Array\\Array.csproj",
+      "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\Array\\Array.csproj",
       "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-      "outputPath": "D:\\ClassTFL\\VS Code\\New folder\\C#\\DSA\\Array\\obj\\",
+      "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\DSA\\Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"
