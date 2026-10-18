@@ -1,32 +1,78 @@
-# DSA
+Data Structures and Algorithms (DSA)
 
+Welcome to my Data Structures and Algorithms (DSA) repository.
 
-# Data Structures and Algorithms (DSA)
+This repository contains my implementations, practice problems, and solutions covering various DSA concepts. I created it to strengthen my problem-solving skills, build a strong foundation in computer science fundamentals, and prepare for technical interviews and competitive programming.
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository.
+Learning Progress
 
-This repository contains my implementations and practice solutions for various DSA concepts and problems. The purpose of this repository is to strengthen my problem-solving skills, understand core data structures and algorithms, and prepare for technical interviews and competitive programming.
-
-## 🌱 Currently Learning
-### 📚 DSA Progress
+DSA Roadmap
 
 - ✅ Arrays
 - ✅ Linked Lists
 - ⏳ Strings
-- ⏳ Stacks & Queues
+- ⏳ Stacks and Queues
 - ⏳ Hashing
-- ⏳ Recursion & Backtracking
+- ⏳ Recursion and Backtracking
+- ⏳ Binary Search
+- ⏳ Sorting Algorithms
 - ⏳ Trees
 - ⏳ Binary Search Trees
-- ⏳ Heaps
+- ⏳ Heaps and Priority Queues
 - ⏳ Graphs
-- ⏳ Sorting & Searching
 - ⏳ Greedy Algorithms
 - ⏳ Dynamic Programming
 - ⏳ Bit Manipulation
+- ⏳ Tries
+- ⏳ Advanced Data Structures
 
-Each topic includes implementations and solutions to practice problems, with a focus on understanding concepts, writing clean code, and improving time and space complexity.
+Legend:
 
-## Goal
+- ✅ Completed
+- ⏳ In Progress
+- 🔲 Not Started
 
-The main goal of this repository is to maintain a structured record of my **DSA learning and problem-solving journey**.
+Repository Structure
+
+DSA/
+├── Arrays/
+├── LinkedLists/
+├── Strings/
+├── Stacks/
+├── Queues/
+├── Hashing/
+├── Recursion/
+├── Searching/
+├── Sorting/
+├── Trees/
+├── BinarySearchTrees/
+├── Heaps/
+├── Graphs/
+├── Greedy/
+├── DynamicProgramming/
+└── BitManipulation/
+
+The directory structure may evolve as I explore more topics.
+
+What I'm Focusing On
+
+- Understanding core data structures and algorithms.
+- Solving problems with efficient approaches.
+- Analyzing time and space complexity.
+- Writing clean, readable, and maintainable code.
+- Practicing common technical interview questions.
+- Learning to recognize patterns and optimize solutions.
+
+Goals
+
+- Build strong DSA fundamentals.
+- Solve problems consistently and track my progress.
+- Improve logical thinking and analytical skills.
+- Develop optimized solutions using appropriate data structures and algorithms.
+- Prepare for coding interviews and competitive programming.
+
+Progress Tracking
+
+This repository serves as a structured record of my DSA learning journey. I will continue adding implementations, solutions, and improvements as I learn new concepts and solve more problems.
+
+One problem at a time. One concept at a time. Continuous improvement.
